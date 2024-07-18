@@ -15,7 +15,7 @@ public class MessageService {
     private static MessageService messageService;
     MainBotService mainBotService = MainBotService.getInstance();
     UserService userService = UserService.getInstance();
-    CardService cardService = CardService.getInstance();
+
     ReplyKeyboardMaker replyKeyboardMaker = new ReplyKeyboardMaker();
 
     public static MessageService getInstance() {
