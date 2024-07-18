@@ -1,0 +1,20 @@
+[
+  {
+    "id": "9bde95fa-05c5-473d-8e20-a1358f9cbba0",
+    "name": "Xurshid",
+    "chatId": 670468748,
+    "state": "DEF",
+    "cards": [
+      {
+        "id": "58f4fe83-0fc1-48d6-bab7-e2586c52f4d9",
+        "number": "1231231231231231",
+        "balance": 0.0
+      },
+      {
+        "id": "97e6b198-4bec-4515-9128-a069b7eac611",
+        "number": "3213213213213212",
+        "balance": 0.0
+      }
+    ]
+  }
+]
